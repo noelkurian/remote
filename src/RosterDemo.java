@@ -3,6 +3,12 @@ import org.jivesoftware.smack.RosterEntry;
 import org.jivesoftware.smack.XMPPConnection;
 import org.jivesoftware.smack.XMPPException;
 
+/**
+ * courtesy of http://www.adarshr.com/papers/xmpp2
+ * 
+ * @author joel
+ *
+ */
 public class RosterDemo {
 
 	/**
